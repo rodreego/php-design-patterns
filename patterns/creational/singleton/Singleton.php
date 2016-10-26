@@ -1,6 +1,6 @@
 <?php
 
-namespace patterns\creational\singleton;
+namespace Patterns\Creational\Singleton;
 
 class Singleton
 {

@@ -1,7 +1,7 @@
 <?php
 
-namespace patterns\creational;
+namespace Patterns\Creational;
 
 class Frutifera extends Infrutifera{
-	
+
 }

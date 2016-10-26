@@ -2,7 +2,7 @@
 
 require_once 'autoload.php';
 
-use patterns\creational\singleton\ContextoDeSeguranca as ContextoDeSeguranca;
+use Patterns\Creational\Singleton\ContextoDeSeguranca as ContextoDeSeguranca;
 
 $cds1 = ContextoDeSeguranca::getInstance();
 $cds2 = ContextoDeSeguranca::getInstance();

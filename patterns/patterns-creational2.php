@@ -2,7 +2,7 @@
 
 require_once 'autoload.php';
 
-use patterns\creational\Fertil as Fertil;
+use Patterns\Creational\Fertil as Fertil;
 
 $fertil = new Fertil();
 

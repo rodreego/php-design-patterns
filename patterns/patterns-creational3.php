@@ -2,7 +2,7 @@
 
 require_once 'autoload.php';
 
-use patterns\creational\Infrutifera;
+use Patterns\Creational\Infrutifera;
 
 $infrutifera = new Infrutifera();
 

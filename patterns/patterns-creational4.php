@@ -1,7 +1,7 @@
 <?php
 require_once 'autoload.php';
 
-use patterns\creational\Frutifera;
+use Patterns\Creational\Frutifera;
 
 $frutifera = new Frutifera();
 

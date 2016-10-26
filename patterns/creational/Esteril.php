@@ -1,7 +1,7 @@
-<?php 
+<?php
 
-namespace  patterns\creational;
+namespace  Patterns\Creational;
 
 abstract class Esteril{
-	
+
 }

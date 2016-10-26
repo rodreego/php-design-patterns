@@ -2,7 +2,7 @@
 
 require_once 'autoload.php';
 
-use patterns\creational\singleton\JogadorDeXadrez as JogadorDeXadrez;
+use Patterns\Creational\Singleton\JogadorDeXadrez as JogadorDeXadrez;
 
 $jogador1 = JogadorDeXadrez::getJogador1();
 $jogador2 = JogadorDeXadrez::getJogador2();
