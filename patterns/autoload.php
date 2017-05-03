@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-function autoload($class){
+function autoload($class) {
 	$class = str_replace('\\', DIRECTORY_SEPARATOR, $class);
 	require $class.'.php';
 }
